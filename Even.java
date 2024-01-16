@@ -6,7 +6,7 @@ public class Even extends Thread {
         	if (i%2==0) {
         		System.out.println("Even no. :" +i);
         	}
-            
+            //pakistam
         }
     }
 }
